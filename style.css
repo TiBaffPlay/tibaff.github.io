@@ -1,19 +1,15 @@
-/* Основные стили */
+
 body {
   background-color: #1b1b1b;
-  font-family: Arial, sans-serif;
+  font-family: sans-serif;
   color: #ffffff;
   text-align: center;
-  padding: 20px;
+  padding: 0px;
 }
-
-/* Стили для заголовка */
 h1 {
-  color: #ffffff; /* Синий цвет */
+  color: #ffffff; 
   margin-bottom: 20px;
 }
-
-/* Стили для текста */
 main p {
   font-size: 1em;
   line-height: 1.6;
@@ -21,4 +17,8 @@ main p {
 
 .первая_гифка {
   margin-top: 10px;
+}
+.copybara {
+    font-family: sans-serif;
+    font-size: large;
 }
