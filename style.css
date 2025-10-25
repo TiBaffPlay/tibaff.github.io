@@ -1,1 +1,21 @@
+/* Основные стили */
+body {
+  background-color: #1b1b1b;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Стили для заголовка */
+h1 {
+  color: #ffffff; /* Синий цвет */
+  margin-bottom: 20px;
+}
+
+/* Стили для текста */
+main p {
+  font-size: 1em;
+  line-height: 1.6;
+}
 
