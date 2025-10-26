@@ -2,7 +2,8 @@
 body {
   margin: 0;
   width: 100vw;
-  background-color: #1b1b1b;
+  background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(to right, #002fff4d, #00236e5b);
   font-family: sans-serif;
   color: #ffffff;
   text-align: center;
@@ -28,6 +29,7 @@ main p {
 .заголовок_теста {
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
+  margin: 7px;
 }
 
 .заголовок {
@@ -44,4 +46,8 @@ main p {
   position: absolute;
   top: 18px;
   left: 10px;
+}
+
+.пусто {
+  margin: 10px;
 }
