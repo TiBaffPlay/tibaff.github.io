@@ -24,3 +24,24 @@ main p {
     font-family: sans-serif;
     font-size: large;
 }
+
+.заголовок_теста {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.заголовок {
+  margin: 10px;
+  text-align: left;
+  font-size: 25px;
+  position: absolute;
+  top: 7px;
+  left: 70px;
+}
+
+.меню {
+  width: 60px;
+  position: absolute;
+  top: 18px;
+  left: 10px;
+}
